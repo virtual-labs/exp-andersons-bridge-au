@@ -28,3 +28,16 @@ $$I_{1}P-I_{2}r-\frac{I_{2}}{jC\omega}=0$$
 
 $$I_{1}P-I_{2}(r-\frac{1}{jC\omega})=0............(2)$$
 
+Consider the mesh AEDA,
+$$\frac{I_{2}}{jC\omega}=I_{3}R........(3)$$
+
+i.e. potential difference from A to E is equal to that from A to D.
+From (3) we get,
+$$I_{2}=jI_{3}C\omega R.........(4)$$
+<p>Now substitute the value of I<sub>3</sub> from (1) in (4)</p>
+
+
+
+
+
+
