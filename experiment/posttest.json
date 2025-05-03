@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "L, C and R respectively represent inductance, capacitance and resistance. Which one of the following doesn't have dimensions of frequency?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "R/L",
+        "b": "1/RL",
+        "c": "R/√(LC)",
+        "d": "1/√(LC)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Inductance plays the role similar to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Inertia",
+        "b": "Friction",
+        "c": "Source of emf",
+        "d": "Force"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the case of pure inductance, average power dissipation is",
+      "answers": {
+        "a": "1/2LIω<sup>2</sup>",
+        "b": "1/4 LIω<sup>2</sup>",
+        "c": "2LIω<sup>2</sup>",
+        "d": "Zero"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
