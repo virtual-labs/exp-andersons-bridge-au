@@ -9,3 +9,4 @@
  
 - [Anderson-Bridge Experiment](https://en.wikipedia.org/wiki/Anderson%27s_bridge#:~:text=In%20electronics%2C%20Anderson's%20bridge%20is,components%20like%20resistors%20and%20capacitors.&text=Anderson's%20bridge%20was%20invented%20by%20Alexander%20Anderson%20in%201891.)
 - [Circuit](https://circuitglobe.com/andersons-bridge.html)
+
