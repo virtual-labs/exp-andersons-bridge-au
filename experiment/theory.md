@@ -46,12 +46,51 @@ $$\frac{(P+Q)}{P}\left[ r+\frac{1}{jC\omega} \right]=\frac{S+R+jL\omega-jC\omega
 
 Multiply and divide by R in the L.H.S of (6) and rearrange,
 
+$$\frac{(P+Q)R}{P}\left[ \frac{rjC\omega + 1}{jC\omega R} \right]=\frac{S+R+jL\omega-jC\omega RQ}{jC\omega R}$$
+
+$$PR+RQ+jPrC\omega R+jQrC\omega R=PR+PS+jL\omega P-PRjC\omega Q$$
+
+$$RQ+j(P+Q)RC\omega r=PS+j[L\omega - RC\omega Q]P..........(7)$$
+
+Equating real parts on both sides of (7)
+
+$$\frac{R}{S}=\frac{P}{Q}..............(8)$$
+
+Equation (8) represents the condition for balancing of the bridge.
+
+Equating imaginary parts on both sides of (7)
+
+$$L=\frac{RC[Pr+Qr+PQ]}{P}...........(9)$$
+
+Substituting 
+
+$$S=\frac{RQ}{P}$$
+
+From (8) and (9) gives us
+
+$$L=C[RQ+r(R+S)]...........(10)$$
+
+At this condition of balancing there is minimum sound in the headphone.
+Further we can make P=Q
+
+$$L=CR(P+2r)........(11)$$
+
+The inductive reactance can be calculated by
 
 
+$$X_{L}=2\pi fL..........(12)$$
 
+#### Notes:
 
+1. Since the impedances of the arms should be of the same order of magnitude, the approximate value of L should be determined by some other method. Then satisfying the condition,
+$$Q=R\sim L\omega$$
+2. Sometimes it may be impossible to obtain the balance by varying r and S. Then the formula for L with a value of RQ which satisfies formula for S may require negative value of r. If the product  CRq is greater than L, then variable resistance r will be a negative quantity. It will, therefore, not possible to obtain a balance point under such conditions.Hence it is desirable to know the value of L approximately so that CRQ is less than L. A balance is then obtained with a positive value of r.  The value of P and R should be then be adjusted  so that r is a positive quantity and a balance can be obtained by varying the value of r.
+To obtain balance point a cathode ray oscilloscope can be used in place of a headphone.
+### Advantages
+1. Fixed capacitor is used in terms of variable capacitor.
+2. The bridge is used for accurate determination of inductance in millimeter range.
 
-
-
-
+### Disadvantages:
+1. Bridge is more complex
+2. Difficult to attain balancing condition.
 
