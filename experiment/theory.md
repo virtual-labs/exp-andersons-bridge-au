@@ -36,6 +36,20 @@ From (3) we get,
 $$I_{2}=jI_{3}C\omega R.........(4)$$
 <p>Now substitute the value of I<sub>3</sub> from (1) in (4)</p>
 
+$$I_{2}\left[ \frac{S+R+jL\omega}{jC\omega R}-Q \right]=I_{1}[P+Q].........(5)$$
+
+Dividing (5) by (2)
+
+$$\frac{I_{1}(P+Q)}{I_{1}P}=\frac{I_{2}\left[ \frac{S+R+jl\omega}{jC\omega R}-Q \right]}{I_{2}\left[ r+\frac{1}{jc\omega} \right]}$$
+
+$$\frac{(P+Q)}{P}\left[ r+\frac{1}{jC\omega} \right]=\frac{S+R+jL\omega-jC\omega RQ}{jC\omega R}..........(6)$$
+
+Multiply and divide by R in the L.H.S of (6) and rearrange,
+
+
+
+
+
 
 
 
