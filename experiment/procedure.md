@@ -37,7 +37,7 @@
 6. The value of variable resistor 'r' can be varied either by using the slider or by clicking the arrow displayed in the resistor.
 7. Note the value of r, where the voltage in CRO becomes zero is the balancing condition.
 
-Note: The value of resistances in the four resistance boxes are suitable to attain balancing condition, the variable resistor, r will automatically display a value near the balancing condition. Otherwise  variable resistor displays the minimum value of 1Ω.
+**Note**: The value of resistances in the four resistance boxes are suitable to attain balancing condition, the variable resistor, r will automatically display a value near the balancing condition. Otherwise  variable resistor displays the minimum value of 1Ω.
 8. The experiment is repeated by using  " reset"  button. Also we can hold the connections and can change the parameters by  " Power off  " button.
 
 
