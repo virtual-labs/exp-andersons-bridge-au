@@ -3,7 +3,7 @@
 AC bridges are often used to measure the value of unknown impedance (self/mutual inductance of inductors or capacitance of capacitors accurately). A large number of AC bridges are available and Anderson's Bridge is an AC bridge used to measure self inductance of the coil. It is a modification of Wheatstones Bridge. It enables us to measure the inductance of a coil using capacitor and resistors and does not require repeated balancing of the bridge. The connections are shown in Fig: 1.
 
 <div style="float: right; margin-left: 20px;">
-  <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
+  <img src="./images/figure_conn.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 1: Connection diagram</p>
 </div>
 
