@@ -86,6 +86,8 @@ $$X_{L}=2\pi fL..........(12)$$
 $$Q=R\sim L\omega$$
 2. Sometimes it may be impossible to obtain the balance by varying r and S. Then the formula for L with a value of RQ which satisfies formula for S may require negative value of r. If the product  CRq is greater than L, then variable resistance r will be a negative quantity. It will, therefore, not possible to obtain a balance point under such conditions.Hence it is desirable to know the value of L approximately so that CRQ is less than L. A balance is then obtained with a positive value of r.  The value of P and R should be then be adjusted  so that r is a positive quantity and a balance can be obtained by varying the value of r.
 To obtain balance point a cathode ray oscilloscope can be used in place of a headphone.
+
+
 ### Advantages
 1. Fixed capacitor is used in terms of variable capacitor.
 2. The bridge is used for accurate determination of inductance in millimeter range.
