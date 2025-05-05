@@ -3,7 +3,7 @@
 AC bridges are often used to measure the value of unknown impedance (self/mutual inductance of inductors or capacitance of capacitors accurately). A large number of AC bridges are available and Anderson's Bridge is an AC bridge used to measure self inductance of the coil. It is a modification of Wheatstones Bridge. It enables us to measure the inductance of a coil using capacitor and resistors and does not require repeated balancing of the bridge. The connections are shown in Fig: 1.
 
 <div style="float: right; margin-left: 20px;">
-  <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
+  <img src="./images/figure_conn.jpg" alt="Figure 1" style="max-width: 300px; height: auto;">
   <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 1: Connection diagram</p>
 </div>
 
@@ -26,7 +26,7 @@ Consider the mesh ABEA, there is no e.m.f.
 
 $$I_{1}P-I_{2}r-\frac{I_{2}}{jC\omega}=0$$
 
-$$I_{1}P-I_{2}(r-\frac{1}{jC\omega})=0............(2)$$
+$$I_{1}P-I_{2}(r+\frac{1}{jC\omega})=0............(2)$$
 
 Consider the mesh AEDA,
 $$\frac{I_{2}}{jC\omega}=I_{3}R........(3)$$
@@ -46,7 +46,7 @@ $$\frac{(P+Q)}{P}\left[ r+\frac{1}{jC\omega} \right]=\frac{S+R+jL\omega-jC\omega
 
 Multiply and divide by R in the L.H.S of (6) and rearrange,
 
-$$\frac{(P+Q)R}{P}\left[ \frac{rjC\omega + 1}{jC\omega R} \right]=\frac{S+R+jL\omega-jC\omega RQ}{jC\omega R}$$
+$$\frac{(P+Q)R}{P}\left[ \frac{rjC\omega + 1}{jC\omega R} \right]=\frac{R+S+jL\omega-jC\omega RQ}{jC\omega R}$$
 
 $$PR+RQ+jPrC\omega R+jQrC\omega R=PR+PS+jL\omega P-PRjC\omega Q$$
 
