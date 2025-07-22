@@ -43,7 +43,7 @@
 
  ## Procedure for real lab
  
-Connections are made as shown in the theory.  A.C. source say a 1000Hz audio-oscilloscope and a head set is used here. Keeping the value of P, Q, R and S constant, adjust the value of variable resiatnce r till the sound is reduced to a minimum value. This is the balancing point of the alternating current. Note the value of resistance r and capacitor C. Repeat the experiment three times and calculate the self inductance of the coil using equations.
+Connections are made as shown in the theory.  A.C. source say a 1000Hz audio-oscilloscope and a head set is used here. Keeping the value of P, Q, R and S constant, adjust the value of variable resistance r till the sound is reduced to a minimum value. This is the balancing point of the alternating current. Note the value of resistance r and capacitor C. Repeat the experiment three times and calculate the self inductance of the coil using equations.
 
  ### Observations and Calculations
 
