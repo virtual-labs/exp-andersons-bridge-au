@@ -3,7 +3,7 @@
 ### Slider Region
 ### Signal generator
 1. **Voltage**- This slider is used to vary the voltage of the signal generator.
-2. **Frequency**- Using this slider we can fix the frequency for a paticular voltage.
+2. **Frequency**- Using this slider we can fix the frequency for a particular voltage.
 
 ### Inductance coil:
 1. **Length**- This slider is used to change the length of the inductance coil used in the circuit. There are 1000 number of turns in 1m length of the coil.
